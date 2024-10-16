@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary  # If using PostgreSQL
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+email-validator
